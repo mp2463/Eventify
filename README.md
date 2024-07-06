@@ -1,6 +1,6 @@
 # Eventify
 
-This application is an outcome of Didizest 1.0 Hackathon.
+This application is an outcome of Digizest 1.0 Hackathon.
 This app is based on the theme of Smart Campus.
 Addressing the problem statement of Smart Campus theme our team came up with an idea to develop a user-friendly & handy android application for providing college students with clubs'info and club activities.
 This contains features of registering to Hackathons and Events. 
